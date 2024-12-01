@@ -4,10 +4,10 @@
 
 ## Overview
 
-1. [Grow Your Business with Google Ads](#grow-your-business-with-google-ads)
-2. [Identify Campaign Types on Google Display Ads](#identify-campaign-types-on-google-display-ads)
-3. [Reach Users on Google Display Ads](#reach-users-on-google-display-ads)
-4. [Increase Efficiency with Automated Bidding](#increase-efficiency-with-automated-bidding)
+1. [Grow Your Business with Google Ads](#1-grow-your-business-with-google-ads)
+2. [Identify Campaign Types on Google Display Ads](#2-identify-campaign-types-on-google-display-ads)
+3. [Reach Users on Google Display Ads](#3-reach-users-on-google-display-ads)
+4. [Increase Efficiency with Automated Bidding](#4-increase-efficiency-with-automated-bidding)
 
 ---
 
@@ -101,7 +101,7 @@ offering powerful tools to engage your audience and drive results.
 1. **Standard Display Campaigns**
 2. **Smart Display Campaigns**
 
-### **Smart Display Campaigns**
+### Smart Display Campaigns
 
 - **Overview**: Fully automated; uses Google’s machine learning to optimize targeting, bidding, and creative assets
 - **Inputs Required**: Ad text, images, daily budget, CPA targets
@@ -115,7 +115,7 @@ offering powerful tools to engage your audience and drive results.
 
 **Note**: Requires 50 conversions on Display or 100 on Search in the last 30 days to set up
 
-### **Standard Display Campaigns**
+### Standard Display Campaigns
 
 - **Overview**: Offers full control over targeting, bidding, and ad formats
 - **Features**:
@@ -166,7 +166,7 @@ helping achieve specific campaign goals. Below are the main targeting strategies
 - **Dynamic Remarketing**: Display personalized ads featuring products or services users previously viewed.  
   *Example*: Hiroko targets users who viewed a specific bicycle, showing ads with that product.
 
-### **Hiroko's Journey**
+### Hiroko's Journey
 
 Hiroko leverages these targeting options across her campaigns:
 
@@ -180,3 +180,50 @@ Hiroko leverages these targeting options across her campaigns:
 
 ## 4. Increase Efficiency with Automated Bidding
 
+Bidding is a critical component of online marketing, as it determines how your ads perform and their visibility during
+key moments. Google Ads' **automated bidding** leverages machine learning to simplify and optimize bid management,
+aligning with your performance goals.
+
+### **The Challenge of Setting Manual Bids**
+
+1. **Performance Variability**: Inefficient bids can result in missed opportunities or wasted budgets.
+2. **Dynamic Auctions**: Google's auctions are fast and fluid. Identifying the optimal bid in real time is difficult at
+   scale.
+3. **Complex User Journeys**: User behavior varies across signals like location, time, and device, making it challenging
+   to account for every
+   factor manually.
+
+
+### What Is Automated Bidding?
+
+Automated bidding uses Google's machine learning to optimize bids based on the likelihood of achieving your performance
+goals. It eliminates the need for manual adjustments, ensuring your bids adapt dynamically to auction conditions and
+user context.
+
+### Benefits of Smart Bidding
+
+1. **Precision at Scale**: Smart Bidding adjusts bids for every auction, helping you maximize conversions or conversion
+   value
+2. **Machine Learning**: Google's algorithms analyze vast amounts of data to predict outcomes and optimize bids more
+   efficiently than
+   manual methods
+3. **Efficiency**: By automating bid adjustments, you can focus on strategy rather than operational details
+
+### Smart Bidding Strategies
+
+Smart Bidding offers tailored strategies to align with your marketing goals:
+
+- **Target CPA**: Automatically sets bids to achieve your desired cost per acquisition
+- **Target ROAS**: Focuses on achieving a specific return on ad spend by maximizing conversion value
+- **Maximize Conversions**: Drives the highest possible number of conversions within your budget
+- **Maximize Conversion Value**: Aims to achieve the highest conversion value within your budget
+
+### **Conclusion**
+
+- Automated bidding simplifies complex bidding processes
+- Adapts to auction dynamics, and optimizes performance using machine learning
+- With Smart Bidding, you can efficiently reach your marketing objectives while saving time and maximizing value.
+
+---
+
+## 5. 
