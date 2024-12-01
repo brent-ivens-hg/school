@@ -1,4 +1,4 @@
-# Google Ads Display Certification -- Summary
+# Google Ads Display Certification
 
 ---
 
