@@ -201,19 +201,17 @@ Hiroko leverages these targeting options across her campaigns:
 
 ### **The Challenge of Setting Manual Bids**
 
-1. **Performance Variability**: Inefficient bids can result in missed opportunities or wasted budgets.
+1. **Performance Variability**: Inefficient bids can result in missed opportunities or wasted budgets
 2. **Dynamic Auctions**: Google's auctions are fast and fluid. Identifying the optimal bid in real time is difficult at
-   scale.
+   scale
 3. **Complex User Journeys**: User behavior varies across signals like location, time, and device, making it challenging
-   to account for every
-   factor manually.
+   to account for every factor manually
 
 ### What Is Automated Bidding?
 
-> Automated bidding uses Google's machine learning to optimize bids based on the likelihood of achieving your
-> performance
-> goals. It eliminates the need for manual adjustments, ensuring your bids adapt dynamically to auction conditions and
-> user context.
+Automated bidding uses Google's machine learning to optimize bids based on the likelihood of achieving your performance
+goals. It eliminates the need for manual adjustments, ensuring your bids adapt dynamically to auction conditions and 
+user context.
 
 ### Benefits of Smart Bidding
 
@@ -232,6 +230,17 @@ Hiroko leverages these targeting options across her campaigns:
 - **Target ROAS**: Focuses on achieving a specific return on ad spend by maximizing conversion value
 - **Maximize Conversions**: Drives the highest possible number of conversions within your budget
 - **Maximize Conversion Value**: Aims to achieve the highest conversion value within your budget
+
+| **Bidding Strategy**       | **Goal**                                                                 | **Optimization Focus**              | **When to Use**                                                                                                 |
+|-----------------------------|--------------------------------------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **Target CPA**              | Achieve conversions at a specific cost per acquisition (CPA).           | Cost-efficiency per conversion.      | You want predictable costs and can define how much you’re willing to pay for each conversion.                  |
+| **Target ROAS**             | Maximize conversion value while achieving a specific return on ad spend (ROAS). | Revenue-efficiency.                  | You have varying conversion values and want to prioritize high-value conversions relative to ad spend.          |
+| **Maximize Conversions**    | Get the highest number of conversions possible within your budget.       | Conversion volume.                   | You want to increase actions like sign-ups or leads without focusing on conversion value.                       |
+| **Maximize Conversion Value** | Achieve the highest total conversion value (e.g., revenue) within your budget. | Total monetary return.               | You want to focus on driving profitability and can assign different values to conversions.                      |
+
+### Key Differences:
+- **Target CPA** and **Target ROAS** aim to maintain specific efficiency metrics (cost or return)
+- **Maximize Conversions** and **Maximize Conversion Value** aim to maximize outcomes (volume or value) without specific efficiency constraints
 
 ### **Conclusion**
 
