@@ -269,9 +269,9 @@ Her choice will depend on whether she prioritizes:
 
 ### What Are RDAs?
 
-> Responsive Display Ads are the default ad type for Google Display campaigns. They use your uploaded assets (e.g.,
-> images, videos, headlines) to automatically create ads that adapt to any ad space, offering seamless integration into
-> both native and non-native inventory.
+Responsive Display Ads are the default ad type for Google Display campaigns. They use your uploaded assets (e.g.,
+images, videos, headlines) to automatically create ads that adapt to any ad space, offering seamless integration into
+both native and non-native inventory.
 
 ### Key Benefits of RDAs
 
@@ -279,14 +279,14 @@ Her choice will depend on whether she prioritizes:
 2. **Reach**: RDAs automatically adjust size, appearance, and format to fit almost any ad slot, significantly expanding your
    potential audience
 3. **Simplicity**: RDAs reduce time spent managing ad portfolios, freeing you to focus on improving campaign performance
-4. **Creative Testing**: Google conducts billions of creative A/B tests to ensure your ads deliver the right message to the right user,
+4. **Creative Testing**: Google conducts billions of creative **A/B tests** to ensure your ads deliver the right message to the right user,
    improving engagement and conversions
 5. **Proven Performance**: Advertisers see an average of 50% more conversions at a comparable CPA when adding RDAs to their campaigns
 
 ### What are Uploaded Ads?
 
-> Uploaded ads provide complete control over the look and feel of your campaigns. You create ads outside of Google Ads
-> and upload them to your Display campaign.
+Uploaded ads provide complete control over the look and feel of your campaigns. You create ads outside of Google Ads
+and upload them to your Display campaign.
 
 ### Types of Uploaded Ads
 
