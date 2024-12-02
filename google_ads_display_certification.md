@@ -224,7 +224,7 @@ user context.
 
 ### Smart Bidding Strategies
 
-> Smart Bidding offers tailored strategies to align with your marketing goals:
+> Smart Bidding offers tailored strategies to align with your marketing goals.
 
 | **Bidding Strategy**       | **Goal**                                                                 | **Optimization Focus**              | **When to Use**                                                                                                 |
 |-----------------------------|--------------------------------------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
@@ -248,7 +248,7 @@ user context.
 ## 5. Deliver the Right Message on Google Display Ads
 
 > Ad formats play a vital role in how your brand communicates with your audience. With Google Display ads, you can
-> choose from different ad formats based on your priorities—whether it's maximizing efficiency or retaining creative
+> choose from different ad formats based on your priorities — whether it's maximizing efficiency or retaining creative
 > control.
 
 ### **Why Choose Display Ad Formats?**
@@ -256,16 +256,16 @@ user context.
 Display ads help promote your business across various digital environments, including websites, YouTube, and apps.
 Depending on your goals, you can:
 
-- Use **Responsive Display Ads (RDAs)** for automation, performance, and reach.
-- Opt for **uploaded ads** to maintain full creative control over how your ads appear.
+- Use **Responsive Display Ads (RDAs)** for automation, performance, and reach
+- Opt for **Uploaded Ads** to maintain full creative control over how your ads appear
 
-### Meet Hiroko
+###     Meet Hiroko
 
 Hiroko, a digital marketing manager at *Your Adventure*, is exploring her ad format options to support her campaigns.
 Her choice will depend on whether she prioritizes:
 
-- **Efficiency**: For performance-driven campaigns, RDAs are ideal.
-- **Control**: For precise branding, uploaded ads might be the better option.
+- **Efficiency**: For performance-driven campaigns, RDAs are ideal
+- **Control**: For precise branding, uploaded ads might be the better option
 
 ### What Are RDAs?
 
@@ -275,18 +275,13 @@ Her choice will depend on whether she prioritizes:
 
 ### Key Benefits of RDAs
 
-1. **Automation**:  
-   Google uses machine learning to assemble and optimize ads for every placement, maximizing performance and reach.
-2. **Reach**:  
-   RDAs automatically adjust size, appearance, and format to fit almost any ad slot, significantly expanding your
-   potential audience.
-3. **Simplicity**:  
-   RDAs reduce time spent managing ad portfolios, freeing you to focus on improving campaign performance.
-4. **Creative Testing**:  
-   Google conducts billions of creative A/B tests to ensure your ads deliver the right message to the right user,
-   improving engagement and conversions.
-5. **Proven Performance**:  
-   Advertisers see an average of 50% more conversions at a comparable CPA when adding RDAs to their campaigns.
+1. **Automation**: Google uses machine learning to assemble and optimize ads for every placement, maximizing performance and reach
+2. **Reach**: RDAs automatically adjust size, appearance, and format to fit almost any ad slot, significantly expanding your
+   potential audience
+3. **Simplicity**: RDAs reduce time spent managing ad portfolios, freeing you to focus on improving campaign performance
+4. **Creative Testing**: Google conducts billions of creative A/B tests to ensure your ads deliver the right message to the right user,
+   improving engagement and conversions
+5. **Proven Performance**: Advertisers see an average of 50% more conversions at a comparable CPA when adding RDAs to their campaigns
 
 ### What are Uploaded Ads?
 
