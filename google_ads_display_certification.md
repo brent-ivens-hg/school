@@ -177,9 +177,9 @@ Why Google Ads?
 **Targeting Options**:
 
 - **Standard Remarketing**: Show ads to past visitors across websites and apps
-    - *Example*: Hiroko targets website visitors who haven’t made a purchase, offering a discount.
+    - Example: *Hiroko targets website visitors who haven’t made a purchase, offering a discount*
 - **Dynamic Remarketing**: Display personalized ads featuring products or services users previously viewed
-    - *Example*: Hiroko targets users who viewed a specific bicycle, showing ads with that product
+    - Example: *Hiroko targets users who viewed a specific bicycle, showing ads with that product*
 
 ### Hiroko's Journey
 
