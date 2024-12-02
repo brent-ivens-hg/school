@@ -24,7 +24,8 @@
 ### Get to Know Google Ads
 
 > **Google Ads** is a digital advertising platform that helps businesses reach potential customers effectively and grow.
-> Why Google Ads?
+
+Why Google Ads?
 
 - **Broad reach**: Connect with users when they search for what you offer
 - **Smart technology**: Automates tasks to improve results
