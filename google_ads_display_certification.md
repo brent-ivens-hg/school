@@ -142,8 +142,7 @@ Why Google Ads?
 ## 3. Reach Users on Google Display Ads
 
 > Google Display Ads provides powerful **targeting options** to ensure your ads reach the right people at the right
-> time,
-> helping achieve specific campaign goals. Below are the main targeting strategies for each objective:
+> time, helping achieve specific campaign goals. Below are the main targeting strategies for each objective.
 
 ### Build Awareness
 
@@ -178,9 +177,9 @@ Why Google Ads?
 **Targeting Options**:
 
 - **Standard Remarketing**: Show ads to past visitors across websites and apps
-  *Example*: Hiroko targets website visitors who haven’t made a purchase, offering a discount.
+    - *Example*: Hiroko targets website visitors who haven’t made a purchase, offering a discount.
 - **Dynamic Remarketing**: Display personalized ads featuring products or services users previously viewed
-  *Example*: Hiroko targets users who viewed a specific bicycle, showing ads with that product
+    - *Example*: Hiroko targets users who viewed a specific bicycle, showing ads with that product
 
 ### Hiroko's Journey
 
