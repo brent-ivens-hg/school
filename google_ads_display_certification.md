@@ -226,11 +226,6 @@ user context.
 
 > Smart Bidding offers tailored strategies to align with your marketing goals:
 
-- **Target CPA**: Automatically sets bids to achieve your desired cost per acquisition
-- **Target ROAS**: Focuses on achieving a specific return on ad spend by maximizing conversion value
-- **Maximize Conversions**: Drives the highest possible number of conversions within your budget
-- **Maximize Conversion Value**: Aims to achieve the highest conversion value within your budget
-
 | **Bidding Strategy**       | **Goal**                                                                 | **Optimization Focus**              | **When to Use**                                                                                                 |
 |-----------------------------|--------------------------------------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | **Target CPA**              | Achieve conversions at a specific cost per acquisition (CPA).           | Cost-efficiency per conversion.      | You want predictable costs and can define how much you’re willing to pay for each conversion.                  |
@@ -264,9 +259,7 @@ Depending on your goals, you can:
 - Use **Responsive Display Ads (RDAs)** for automation, performance, and reach.
 - Opt for **uploaded ads** to maintain full creative control over how your ads appear.
 
----
-
-### **Meet Hiroko**
+### Meet Hiroko
 
 Hiroko, a digital marketing manager at *Your Adventure*, is exploring her ad format options to support her campaigns.
 Her choice will depend on whether she prioritizes:
