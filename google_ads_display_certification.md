@@ -290,15 +290,15 @@ and upload them to your Display campaign.
 
 ### Types of Uploaded Ads
 
-1. **Image Ads**:
+1. **Image Ads**
     - Created in tools like Google Web Designer and uploaded as .zip files.
     - Limited to banner-eligible slots, offering less scale compared to RDAs.
     - **Key Benefit**: Full creative control to design ads that match your brand’s vision.
 
-2. **AMPHTML Ads**:
-    - Built using AMP (Accelerated Mobile Pages) principles for faster, lighter, and more secure ad experiences.
-    - **Key Benefits**:
-        - **Speed**: Ads are six times faster on AMP¹ pages, boosting viewability and effectiveness.
+2. **AMPHTML Ads**
+    - Built using AMP¹ (Accelerated Mobile Pages) principles for faster, lighter, and more secure ad experiences.
+    - **Key Benefits**
+        - **Speed**: Ads are six times faster on AMP pages, boosting viewability and effectiveness.
         - **Efficiency**: Three times lighter, ensuring smoother user experiences.
         - **Security**: Validation requirements reduce the risk of malware, enhancing trust in your brand.
 
@@ -318,9 +318,9 @@ and upload them to your Display campaign.
 
 ### Why You Should Plan for Performance with Performance Planner
 
-> Planning your Google Ads campaigns is crucial to maximizing the effectiveness of your digital marketing investment.
-> Google Ads **Performance Planner** helps you forecast your campaign performance and optimize your budget allocation to
-> drive the best results.
+Planning your Google Ads campaigns is crucial to maximizing the effectiveness of your digital marketing investment.
+Google Ads **Performance Planner** helps you forecast your campaign performance and optimize your budget allocation to
+drive the best results.
 
 ### The Importance of Planning Your Google Ads Budget
 
@@ -331,7 +331,7 @@ and upload them to your Display campaign.
 3. **Maximize ROI**: By setting optimal bids and budgets, you can ensure that you are getting the best return on
    investment (ROI) from your advertising spend
 4. **Discover Growth Opportunities**: Performance Planner helps identify new ways to grow your sales volumes through
-   Google Ads, ensuring that you are always on the path to achieving your key performance indicators (KPIs)
+   Google Ads, ensuring that you are always on the path to achieving your KPIs (Key Performance Indicators)
 
 ### Common Questions You Can Answer with Performance Planner
 
@@ -342,9 +342,9 @@ and upload them to your Display campaign.
 
 ### What is Google Ads Performance Planner?
 
-> Performance Planner is a forecasting tool within Google Ads that helps you determine the optimal budget needed to
-> achieve your marketing goals. It uses machine learning to analyze past performance and predict how future spend will
-> affect your campaigns.
+Performance Planner is a forecasting tool within Google Ads that helps you determine the optimal budget needed to
+achieve your marketing goals. It uses machine learning to analyze past performance and predict how future spend will
+affect your campaigns.
 
 ### How Does Performance Planner Work?
 
@@ -378,9 +378,9 @@ and upload them to your Display campaign.
 
 ### How to Use Performance Planner for Budget Planning in Google Ads
 
-> Performance Planner is a powerful tool to help you forecast and optimize your Google Ads campaigns, ensuring that your
-> budgets and bids are set for maximum conversions and return on investment (ROI). Here's how you can use it
-> effectively.
+Performance Planner is a powerful tool to help you forecast and optimize your Google Ads campaigns, ensuring that your
+budgets and bids are set for maximum conversions and return on investment (ROI). Here's how you can use it
+effectively.
 
 ### Steps to Use Performance Planner
 
@@ -425,7 +425,7 @@ Here's a breakdown of potential outcomes:
 1. **Create Separate Plans for Different Marketing Objectives**:
     - Don’t mix campaigns with different goals (e.g., brand vs. generic campaigns) in the same plan. This ensures your
       budget is allocated effectively to each objective.
-2. **Use Non-Last Click Conversions for Budget Allocation**:
+2. **Use Non-Last Click¹ Conversions for Budget Allocation**:
     - By default, Performance Planner forecasts based on conversions listed in the "Conversions" column. For better
       budget allocation, use non-last click conversions to account for the full customer journey.
 3. **Regularly Update Your Plan**:
@@ -434,6 +434,8 @@ Here's a breakdown of potential outcomes:
 4. **Download and Apply Recommendations**:
     - Performance Planner offers recommendations for bid scaling, Target CPA, or Target ROAS, which you can manually
       apply via the Google Ads interface or Google Ads Editor for bulk changes.
+
+> ¹ Non-Last Click attribution refers to crediting conversions to interactions (e.g., clicks, views) that occurred before the final (last) click in the user’s journey. It acknowledges that multiple touchpoints often contribute to a conversion.
 
 ### What Changes Will Performance Planner Recommend?
 
@@ -473,11 +475,13 @@ Once Performance Planner provides recommendations:
 - **Growth Potential**: Use Performance Planner to track how past performance can help you grow conversions and improve
   future campaign performance.
 
-By following these steps and best practices, you can ensure that your Google Ads campaigns are optimized for maximum
+> By following these steps and best practices, you can ensure that your Google Ads campaigns are optimized for maximum
 conversions and return on investment, helping you make smarter decisions about how and where to allocate your marketing
 spend.
 
-**Main goal: It helps you forecast and determine your budgets, while also improving your return on investment.**
+### Main goal
+
+It helps you forecast and determine your budgets, while also improving your return on investment.
 
 ---
 
@@ -490,10 +494,10 @@ spend.
     - [x] False
 
 2. **Which targeting option is best for influencing consideration?**
-    - [ ] ...
-    - [ ] ...
-    - [ ] ...
+    - [ ] Custom Affinity
     - [x] Custom Intent
+    - [ ] Demographics
+    - [ ] Remarketing
 
 3. **What are the three marketing objectives that can be met via targeting on Google Display ads?**
     - [x] Influence consideration
@@ -502,9 +506,9 @@ spend.
     - [ ] Generate buzz
 
 4. **How can Google Ads help you to advance your business goals?**
-    - [ ] ...
-    - [ ] ...
-    - [ ] ...
+    - [ ] By influencing consideration of your products and services
+    - [ ] By building awareness of your brand
+    - [ ] By driving online, in-app, in-person and over-the-phone sales
     - [x] All of the above
 
 5. **Match each auto-bidding strategy to the right campaign goal.**
@@ -518,14 +522,14 @@ spend.
       - Traffic
 
 6. **Which of the following is a core benefit of Google Ads automated bidding?**
-    - [ ] ...
-    - [ ] ...
-    - [ ] ...
+    - [ ] User ID-based bidding
+    - [ ] Impression-share-based bidding
+    - [ ] Daily budget pacing
     - [x] Auction-time bidding
 
 7. **What two types of remarketing can be used on Google Display ads?**
-    - [ ] ... remarketing
-    - [ ] ... remarketing
+    - [ ] Custom remarketing
+    - [ ] Email remarketing
     - [x] Standard remarketing
     - [x] Dynamic remarketing
 
