@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  gitlab:
+    image: gitlab/gitlab-ce:13.8.7-ce.0
+    container_name: gitlab-docker
+    hostname: gitlab-docker
+    ports:
+      - "80:80"
+      - "443:443"
+      - "2222:22"
+    volumes:
+      - /opt/gitlab-docker/config:/etc/gitlab
+      - /opt/gitlab-docker/logs:/var/log/gitlab
+      - /opt/gitlab-docker:/var/opt/gitlab
+    shm_size: "256m"
+    restart: always
